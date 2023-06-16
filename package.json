@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  },
+  "name": "telega-bot-kairat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
